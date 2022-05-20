@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/60495252/169431547-68c87dd3-a65c-47f6-
 
 ```bash
 # Installing Dependencies
-pip install requirements.txt -r
+pip install -r requirements.txt
 
 # Downloading the source code 
 git clone https://github.com/Mohamed-Ibrahim-01/mathematical-expression-plotter.git
