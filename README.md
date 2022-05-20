@@ -15,6 +15,13 @@ A mathematical expression plotter that supports most common math functions.
 
 ## Demo
 
+
+
+https://user-images.githubusercontent.com/60495252/169431547-68c87dd3-a65c-47f6-8ed5-d4fe6474be46.mp4
+
+
+
+
 ```bash
 # Installing Dependencies
 pip install requirements.txt -r
